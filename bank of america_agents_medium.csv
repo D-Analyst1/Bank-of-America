@@ -1,0 +1,151 @@
+agent_id,name,location,join_date,status,commission_rate
+AGENT0001,Stephen Reyes,Oregon,2024-08-24,Active,2.04
+AGENT0002,Brooke Anderson,Maine,2025-06-07,Active,1.27
+AGENT0003,Erin Moore,North Dakota,2025-06-07,Active,1.55
+AGENT0004,Danielle Mayer,Louisiana,2022-12-07,Inactive,1.27
+AGENT0005,Stephanie Powell,Nebraska,2025-04-08,Active,2.05
+AGENT0006,Curtis Clark,California,2024-09-10,Inactive,1.49
+AGENT0007,John Cross,New Jersey,2025-03-27,Active,1.43
+AGENT0008,Kaitlin Oliver,Oklahoma,2024-11-03,Inactive,2.71
+AGENT0009,Ruth Robertson,New Jersey,2021-09-18,Active,0.77
+AGENT0010,Dorothy Baldwin,New Hampshire,2023-08-12,Active,1.76
+AGENT0011,Judy Thompson,Vermont,2024-08-19,Active,1.33
+AGENT0012,Joshua Smith,Colorado,2023-02-25,Active,0.55
+AGENT0013,Brandon Sawyer,Wisconsin,2023-01-19,Active,1.09
+AGENT0014,Cindy Daugherty,North Dakota,2025-06-07,Inactive,1.72
+AGENT0015,Brandon Williamson,Maryland,2024-05-15,Active,2.1
+AGENT0016,Ricky Weaver,Utah,2025-07-03,Active,2.52
+AGENT0017,Jennifer Rowe,Alabama,2024-04-16,Active,2.59
+AGENT0018,Larry Jones,Delaware,2024-07-14,Active,2.22
+AGENT0019,Brandi Wright,Mississippi,2024-01-24,Active,1.75
+AGENT0020,Derek Delgado,Minnesota,2022-12-29,Active,1.67
+AGENT0021,Robert Shelton,Minnesota,2025-01-12,Active,2.7
+AGENT0022,James Burns,Michigan,2023-09-21,Inactive,2.74
+AGENT0023,Samantha Thomas,Nevada,2022-09-23,Active,0.94
+AGENT0024,Justin Decker,Mississippi,2024-09-03,Active,1.6
+AGENT0025,Karen Anderson,Oklahoma,2024-02-12,Active,2.5
+AGENT0026,Anne Hall,Missouri,2025-04-26,Active,2.12
+AGENT0027,Michael Brown,Utah,2022-07-06,Active,1.37
+AGENT0028,Christopher Brown,Missouri,2024-11-28,Active,1.57
+AGENT0029,Julian Taylor,North Dakota,2024-11-03,Active,2.9
+AGENT0030,Paul Mendoza,Nebraska,2025-07-14,Active,2.43
+AGENT0031,David Allen,South Carolina,2023-06-14,Inactive,2.03
+AGENT0032,Michelle Freeman,Ohio,2023-06-29,Active,2.96
+AGENT0033,Gary York,Kansas,2021-09-07,Active,2.45
+AGENT0034,Benjamin Carter,California,2022-01-03,Active,1.04
+AGENT0035,Jeffrey Wheeler,Minnesota,2025-04-10,Inactive,1.12
+AGENT0036,Ernest Smith Jr.,Florida,2024-04-18,Active,2.42
+AGENT0037,Isabella Matthews,Delaware,2022-10-12,Active,0.68
+AGENT0038,Rachel Forbes,Idaho,2024-07-26,Inactive,2.96
+AGENT0039,John Medina,Nebraska,2023-07-03,Active,2.25
+AGENT0040,Sarah Cisneros,Texas,2024-07-10,Inactive,0.88
+AGENT0041,Jeffrey George,Alabama,2022-02-08,Active,2.89
+AGENT0042,Michael Hernandez,Nebraska,2023-08-20,Inactive,2.86
+AGENT0043,Derrick Garcia,Georgia,2025-04-08,Active,0.55
+AGENT0044,Gregory Johnston,Alabama,2025-07-19,Active,1.36
+AGENT0045,Anthony Knapp,Missouri,2022-11-17,Inactive,0.74
+AGENT0046,Tiffany Rios,Wyoming,2022-04-30,Inactive,0.85
+AGENT0047,Jorge Brown,Idaho,2022-01-11,Inactive,2.38
+AGENT0048,Christine Williamson,Virginia,2022-10-16,Active,1.03
+AGENT0049,David Gentry,Kansas,2021-12-20,Active,1.13
+AGENT0050,James Figueroa,Iowa,2024-02-14,Inactive,0.67
+AGENT0051,Melissa Johnson,Arizona,2023-09-15,Active,1.91
+AGENT0052,Angela Miller,Montana,2023-10-22,Active,1.58
+AGENT0053,Allison Gomez,Alabama,2025-03-07,Active,2.6
+AGENT0054,Chad Lyons II,New Hampshire,2023-08-30,Active,2.82
+AGENT0055,Savannah Vega,Kansas,2023-12-19,Active,0.83
+AGENT0056,Samuel Blevins,Oklahoma,2023-12-14,Active,2.47
+AGENT0057,Dan Patterson,Louisiana,2025-07-12,Active,0.58
+AGENT0058,Erik Fisher,Connecticut,2022-01-18,Active,2.37
+AGENT0059,Brooke Bradley,Virginia,2025-02-07,Active,1.22
+AGENT0060,David Garcia,Kansas,2023-02-28,Active,2.34
+AGENT0061,Michael Warren,New Mexico,2024-07-06,Inactive,2.64
+AGENT0062,Jessica Butler,New Hampshire,2025-06-07,Active,2.42
+AGENT0063,Robert Espinoza,Oklahoma,2021-10-14,Active,1.01
+AGENT0064,Pamela Brooks,Mississippi,2022-09-17,Active,1.26
+AGENT0065,Sarah Garner,Florida,2024-12-23,Active,1.42
+AGENT0066,Ryan Smith,Georgia,2022-02-11,Active,1.19
+AGENT0067,Marcus Torres,Virginia,2024-02-22,Active,1.63
+AGENT0068,Ralph Davis,Missouri,2023-07-17,Active,1.85
+AGENT0069,Jessica Johnson,Minnesota,2022-02-05,Active,0.84
+AGENT0070,Albert Roach,Connecticut,2023-01-29,Active,0.55
+AGENT0071,Regina Best,Utah,2025-08-05,Active,1.5
+AGENT0072,David Porter,Nevada,2023-05-12,Active,2.73
+AGENT0073,Michael Herman,Virginia,2025-01-07,Active,2.55
+AGENT0074,Vincent Davis,North Carolina,2023-06-28,Active,2.78
+AGENT0075,Casey Taylor,Utah,2023-09-07,Active,1.96
+AGENT0076,Amber Watson,Wisconsin,2022-07-14,Active,2.31
+AGENT0077,Cody Perry,Virginia,2025-04-21,Active,2.13
+AGENT0078,Alexander Shaw,Missouri,2022-07-14,Active,1.7
+AGENT0079,Christina Pham,Illinois,2024-10-24,Active,1.09
+AGENT0080,Zachary Meyer,Nevada,2024-02-19,Active,0.73
+AGENT0081,Michael Black,Rhode Island,2023-05-03,Active,2.41
+AGENT0082,Zachary Stevens,Wyoming,2024-04-12,Active,2.66
+AGENT0083,Mark Hanson,Delaware,2022-03-13,Active,1.24
+AGENT0084,Alexander Evans,North Dakota,2023-07-13,Active,2.4
+AGENT0085,Emily Simmons,Arizona,2021-11-24,Active,2.65
+AGENT0086,Janice Baldwin,Tennessee,2023-09-23,Active,2.86
+AGENT0087,John Price,Tennessee,2023-06-12,Active,0.92
+AGENT0088,Brian Burton,Kansas,2023-04-12,Active,1.22
+AGENT0089,Eric Boyd,Wisconsin,2022-04-06,Active,1.56
+AGENT0090,Nancy Ford,Colorado,2025-05-03,Inactive,0.77
+AGENT0091,Karen Hart,Tennessee,2025-03-16,Active,1.03
+AGENT0092,Melissa Buchanan,Louisiana,2022-06-27,Active,0.62
+AGENT0093,Kimberly Lyons,North Dakota,2023-04-25,Active,2.32
+AGENT0094,Amy Rodgers,Florida,2024-09-30,Active,1.91
+AGENT0095,Jacob Fischer,Mississippi,2023-08-08,Active,1.98
+AGENT0096,Jared Dominguez,Alabama,2022-06-09,Active,2.41
+AGENT0097,Brandon Adams,Texas,2022-05-10,Active,0.71
+AGENT0098,Daniel Hammond,Ohio,2025-04-07,Active,0.77
+AGENT0099,Sarah Chapman,New Mexico,2024-03-28,Inactive,0.56
+AGENT0100,William Petty,Wyoming,2024-12-15,Active,0.86
+AGENT0101,Paul White,Minnesota,2022-01-01,Inactive,1.61
+AGENT0102,Mary Wagner,Vermont,2024-04-10,Active,0.99
+AGENT0103,Eric Floyd,New Hampshire,2022-06-29,Active,2.39
+AGENT0104,Sara Wood,New Hampshire,2024-04-01,Active,1.87
+AGENT0105,Michael Wilkins,Oregon,2022-08-09,Active,2.72
+AGENT0106,Elizabeth Carroll,Vermont,2024-12-21,Active,1.88
+AGENT0107,Brian Chavez,New York,2022-09-02,Active,2.51
+AGENT0108,Bradley Sweeney,Florida,2023-09-03,Inactive,2.69
+AGENT0109,Daniel Scott,Nevada,2024-11-05,Active,2.3
+AGENT0110,Nicholas Martinez,Delaware,2024-01-14,Active,2.25
+AGENT0111,Kari Frye,Pennsylvania,2025-03-28,Active,1.08
+AGENT0112,Jamie Moore,Oregon,2023-07-15,Active,1.66
+AGENT0113,Kyle Evans,Kansas,2023-07-27,Active,0.93
+AGENT0114,Tammy Rosario MD,Missouri,2024-04-02,Active,0.89
+AGENT0115,Emily Franklin,Maine,2022-07-06,Active,1.03
+AGENT0116,Austin Mitchell,Louisiana,2024-03-20,Active,1.15
+AGENT0117,Mitchell Burns,Oregon,2023-03-25,Inactive,2.42
+AGENT0118,Bailey Graham,New York,2022-06-10,Inactive,2.82
+AGENT0119,Victoria White,Oklahoma,2025-01-03,Inactive,0.71
+AGENT0120,Tyler Johnson,Vermont,2022-12-27,Active,1.68
+AGENT0121,Micheal Cooper,Minnesota,2024-03-15,Inactive,2.7
+AGENT0122,Tiffany Richards,Oklahoma,2023-10-23,Inactive,1.51
+AGENT0123,Jacob Bennett,Virginia,2025-04-13,Active,2.72
+AGENT0124,Katherine Pittman,Arizona,2025-02-27,Active,1.6
+AGENT0125,Brittany Johnson,Colorado,2024-02-03,Active,2.15
+AGENT0126,Katie Oconnor,North Dakota,2021-08-24,Active,2.54
+AGENT0127,Thomas Walker,Alabama,2024-04-30,Inactive,2.53
+AGENT0128,Angela Rivera,Arizona,2023-11-26,Active,1.74
+AGENT0129,Cynthia Lopez,Maryland,2023-03-04,Inactive,0.78
+AGENT0130,Erin Perry MD,New Hampshire,2025-03-10,Inactive,1.81
+AGENT0131,Jeffrey Pena,Massachusetts,2025-01-02,Active,1.55
+AGENT0132,Destiny Diaz,New Hampshire,2025-07-14,Active,2.09
+AGENT0133,Kathryn Mclean MD,New Hampshire,2021-12-21,Active,1.5
+AGENT0134,Jacob Harris,Arkansas,2022-09-07,Active,2.98
+AGENT0135,Bradley Hicks,Hawaii,2023-10-13,Active,1.45
+AGENT0136,Stephen Gomez,Massachusetts,2022-10-12,Active,0.58
+AGENT0137,Kimberly Ochoa,Nebraska,2024-06-10,Active,2.54
+AGENT0138,Bianca Avery,New Jersey,2024-08-20,Active,2.93
+AGENT0139,Megan Diaz,Texas,2023-11-12,Active,1.76
+AGENT0140,Dawn Marquez,Florida,2023-04-02,Inactive,1.15
+AGENT0141,Mark Brooks,Georgia,2022-04-25,Active,0.78
+AGENT0142,Susan Lee,Oregon,2021-12-07,Active,2.87
+AGENT0143,Nicole Berry,Idaho,2023-08-13,Active,1.29
+AGENT0144,Jason Cook,North Dakota,2024-11-20,Active,1.07
+AGENT0145,Andrew Nelson,Idaho,2025-03-02,Active,2.76
+AGENT0146,Jean Ruiz,Oklahoma,2022-03-16,Active,1.75
+AGENT0147,Michelle Jones,New Mexico,2022-11-08,Inactive,2.31
+AGENT0148,Albert Hernandez,Oregon,2023-10-08,Active,0.77
+AGENT0149,Mary Davis,Washington,2024-12-19,Active,1.18
+AGENT0150,Carla Norton,New Hampshire,2024-02-02,Active,0.57

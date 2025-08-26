@@ -1,0 +1,801 @@
+customer_id,name,age,location,registration_date,wallet_balance,customer_type
+CUST00001,Michael Juarez,55,Texas,2025-03-10,12300.34,Salaried Worker
+CUST00002,Jake Brennan,42,Missouri,2023-10-14,29482.06,Salaried Worker
+CUST00003,Michael Price,49,New Jersey,2024-10-01,57092.66,Freelancer
+CUST00004,Lisa Taylor,61,Michigan,2023-10-18,18086.84,Student
+CUST00005,Jean Lee,53,Alaska,2023-08-16,22988.17,Trader
+CUST00006,Lawrence Strong,59,Georgia,2023-07-18,61012.59,Salaried Worker
+CUST00007,Jose Garcia,61,Texas,2023-11-06,78701.6,Salaried Worker
+CUST00008,Joseph Molina,18,Oklahoma,2024-12-15,81628.17,Freelancer
+CUST00009,Mrs. Karla Simmons DDS,64,Kansas,2022-08-23,55107.04,Salaried Worker
+CUST00010,Patrick Vance,24,North Dakota,2022-11-23,29581.4,Freelancer
+CUST00011,Morgan Stafford,51,South Dakota,2022-11-09,88132.73,Freelancer
+CUST00012,Mary Kennedy,64,Arkansas,2025-02-07,78318.47,Salaried Worker
+CUST00013,Craig Richmond,37,Oklahoma,2024-08-01,86523.7,Salaried Worker
+CUST00014,Gregory Thomas,44,Maine,2023-12-25,88370.1,Freelancer
+CUST00015,Diana Mejia,42,New York,2025-02-10,61407.62,Salaried Worker
+CUST00016,David Summers,52,Maine,2025-01-29,58530.84,Salaried Worker
+CUST00017,Russell Gonzales,50,Alabama,2023-12-16,88138.96,Student
+CUST00018,Rachel Cummings,21,Pennsylvania,2025-03-19,26968.62,Freelancer
+CUST00019,Adriana Haas,57,West Virginia,2022-08-22,17075.49,Trader
+CUST00020,Andrew Vance,27,Tennessee,2025-04-20,41083.72,Salaried Worker
+CUST00021,Nicole Poole,53,Oregon,2025-01-18,8419.55,Salaried Worker
+CUST00022,Monique Ramirez,27,Florida,2025-05-17,48836.22,Salaried Worker
+CUST00023,Brian Wood,23,Illinois,2025-07-20,22028.79,Salaried Worker
+CUST00024,Catherine Holt,54,Rhode Island,2024-02-14,41105.24,Freelancer
+CUST00025,Mark Franklin,49,Indiana,2024-10-03,25052.98,Student
+CUST00026,Ryan Spencer,60,Missouri,2022-11-15,100.95,Trader
+CUST00027,Jamie Sanders,40,South Carolina,2022-12-29,92772.24,Salaried Worker
+CUST00028,Tanya Dennis,48,Indiana,2024-01-11,79427.94,Student
+CUST00029,Kayla Erickson,43,Kentucky,2023-01-09,58429.0,Trader
+CUST00030,Rebecca Kelly,60,Oregon,2025-05-22,1346.44,Salaried Worker
+CUST00031,Michele Wilson,42,South Dakota,2024-03-29,85317.64,Student
+CUST00032,Daniel Campbell DDS,24,Virginia,2025-01-30,74779.27,Freelancer
+CUST00033,Michael Ponce,20,Hawaii,2025-06-10,40410.87,Trader
+CUST00034,Grace French,22,Illinois,2022-09-26,49929.76,Student
+CUST00035,Sharon Torres,58,New York,2025-05-20,78557.35,Trader
+CUST00036,Timothy Chambers,62,Iowa,2023-03-27,65407.56,Student
+CUST00037,Joe Sanders,51,Delaware,2023-04-09,90353.59,Trader
+CUST00038,Matthew Acevedo,49,Kentucky,2022-11-02,56631.98,Freelancer
+CUST00039,Katrina Guerrero,56,Tennessee,2025-05-19,58076.19,Trader
+CUST00040,Kenneth Medina,61,Pennsylvania,2022-10-22,80488.25,Student
+CUST00041,Keith Fox,24,Tennessee,2022-09-04,20728.7,Salaried Worker
+CUST00042,Kathy Martinez,18,Vermont,2023-09-24,20756.35,Student
+CUST00043,Tanner Vance,54,Indiana,2025-06-14,14042.49,Trader
+CUST00044,Brandy Schaefer,61,Iowa,2024-06-20,15447.67,Freelancer
+CUST00045,Jane Lewis,43,Florida,2023-01-15,73903.95,Student
+CUST00046,Dominic Hubbard,25,Tennessee,2024-02-02,42327.66,Freelancer
+CUST00047,Derek Morton,35,Wisconsin,2025-07-05,47211.07,Trader
+CUST00048,John Obrien,47,Maine,2023-07-27,44907.78,Student
+CUST00049,John Haynes,28,Texas,2025-03-07,24340.9,Trader
+CUST00050,Melinda Gillespie,53,Idaho,2024-02-04,96465.06,Salaried Worker
+CUST00051,Brittney Baird,32,Connecticut,2024-06-22,50352.66,Trader
+CUST00052,Joshua Ramos,35,Virginia,2023-12-10,38444.48,Trader
+CUST00053,Jason Dawson,63,Vermont,2025-04-19,75159.28,Freelancer
+CUST00054,Anne Juarez,32,Utah,2025-01-24,77209.28,Salaried Worker
+CUST00055,Brandon Joseph,50,Mississippi,2025-05-02,98432.27,Salaried Worker
+CUST00056,Ronald Stone,31,Massachusetts,2023-03-04,46397.65,Freelancer
+CUST00057,Jeremy Anderson,46,New Hampshire,2023-11-30,10154.7,Student
+CUST00058,Samantha Gomez,46,West Virginia,2025-03-16,76821.97,Trader
+CUST00059,Jeffrey Thompson,59,Idaho,2022-09-11,70643.24,Student
+CUST00060,Jared Knight,52,Oklahoma,2022-12-23,5500.18,Salaried Worker
+CUST00061,Andrew Phillips,31,Alaska,2025-07-29,57124.47,Student
+CUST00062,Carl Hurley,35,South Dakota,2024-11-11,13919.63,Student
+CUST00063,Thomas Ochoa,62,South Dakota,2025-01-08,98539.21,Salaried Worker
+CUST00064,Michelle Mills,42,Washington,2024-11-17,81533.84,Student
+CUST00065,Lisa Murphy,31,Arizona,2024-07-27,13246.95,Salaried Worker
+CUST00066,Stephen Morris,54,Iowa,2023-07-31,9812.18,Student
+CUST00067,Monica Shepard,61,Vermont,2022-08-28,28238.87,Salaried Worker
+CUST00068,Hannah Brown,53,New Jersey,2023-05-18,25849.93,Freelancer
+CUST00069,Aaron Harrell,49,Mississippi,2023-10-10,43623.89,Salaried Worker
+CUST00070,Randy Reynolds DDS,64,Vermont,2023-07-12,1143.81,Trader
+CUST00071,Ethan Wheeler,25,New Mexico,2024-05-23,66712.42,Salaried Worker
+CUST00072,Judith Freeman,43,South Carolina,2022-10-03,49081.0,Freelancer
+CUST00073,Terri Rodriguez MD,21,Utah,2024-07-22,5529.66,Trader
+CUST00074,Michelle Conway,30,Rhode Island,2023-10-17,3899.93,Salaried Worker
+CUST00075,Paige Harris DDS,42,Oregon,2022-12-04,17108.47,Trader
+CUST00076,Bernard Novak,59,Alaska,2024-06-25,32730.47,Freelancer
+CUST00077,Alexandra Young,43,South Carolina,2024-06-05,6132.18,Salaried Worker
+CUST00078,Anthony Rich,45,Wisconsin,2024-06-20,32614.69,Trader
+CUST00079,Michael Bernard,33,Maine,2023-12-19,90007.46,Salaried Worker
+CUST00080,Samantha Peterson,26,Vermont,2024-01-04,51933.7,Trader
+CUST00081,Cynthia Larson,61,Nebraska,2023-02-25,1113.35,Salaried Worker
+CUST00082,Michael Turner,48,California,2024-08-23,64735.99,Freelancer
+CUST00083,Kayla Smith,52,Nebraska,2024-05-03,91579.34,Trader
+CUST00084,Rebecca Reed,40,Mississippi,2024-08-01,17527.78,Student
+CUST00085,John Reed,54,Pennsylvania,2025-07-26,46052.77,Trader
+CUST00086,Randall Arroyo,20,Maryland,2023-10-21,34565.75,Trader
+CUST00087,Frank Harrison,54,Texas,2024-11-05,4821.83,Salaried Worker
+CUST00088,Tristan Thomas,40,Washington,2023-12-30,25232.19,Salaried Worker
+CUST00089,Megan Walker,60,Hawaii,2023-03-30,34131.54,Student
+CUST00090,Amanda Mills,24,Hawaii,2023-04-07,84044.2,Trader
+CUST00091,Olivia Gordon,19,Utah,2024-01-28,20345.47,Trader
+CUST00092,Stephanie Carr,35,Tennessee,2022-10-31,66912.55,Trader
+CUST00093,John Merritt DDS,52,Ohio,2023-11-19,50256.08,Salaried Worker
+CUST00094,Peter Brown,59,Kentucky,2025-03-29,957.2,Salaried Worker
+CUST00095,Drew Mcbride,33,New York,2025-02-27,65712.68,Trader
+CUST00096,Bill Hinton,36,Oregon,2023-07-24,83374.09,Freelancer
+CUST00097,Becky Green,55,Missouri,2025-02-11,44588.24,Trader
+CUST00098,Julie Reid,19,Nevada,2024-04-05,18934.69,Trader
+CUST00099,Gabriel Kim,56,Indiana,2025-05-03,76824.39,Student
+CUST00100,Logan Hardy,40,Louisiana,2022-09-28,1954.8,Salaried Worker
+CUST00101,Travis Copeland,19,Kentucky,2023-04-29,50648.75,Salaried Worker
+CUST00102,Tammy Lewis,47,West Virginia,2023-03-03,4186.57,Student
+CUST00103,Megan Short,40,Wyoming,2024-02-24,87506.48,Trader
+CUST00104,Alexander Nichols,55,South Carolina,2023-03-10,98468.27,Salaried Worker
+CUST00105,Jennifer Martinez,50,Nebraska,2023-10-25,99133.57,Freelancer
+CUST00106,Bailey Wheeler,63,Missouri,2022-12-06,15515.9,Student
+CUST00107,Justin George,50,Vermont,2023-12-28,62715.18,Freelancer
+CUST00108,Anna Nguyen,45,New York,2022-08-14,58923.05,Salaried Worker
+CUST00109,Jason Pope,39,New York,2022-08-23,39862.93,Trader
+CUST00110,Christopher Peters,40,Maine,2023-12-26,80580.92,Trader
+CUST00111,Evan Gibbs,45,New Mexico,2024-07-30,79475.03,Student
+CUST00112,Melissa Scott,49,Maine,2024-11-23,85289.95,Student
+CUST00113,Jennifer Perez,63,Delaware,2024-06-04,79112.16,Trader
+CUST00114,James Booth,40,South Dakota,2024-02-06,55788.45,Salaried Worker
+CUST00115,Michael Ramos,48,Missouri,2024-12-22,53552.23,Student
+CUST00116,Emily Miller,30,Maryland,2022-09-26,11545.17,Trader
+CUST00117,Christina Sharp,29,Hawaii,2022-11-17,86286.58,Trader
+CUST00118,Michelle Beck,61,Oregon,2022-08-18,85135.48,Salaried Worker
+CUST00119,Melissa Williams,41,Connecticut,2023-04-21,86588.29,Trader
+CUST00120,Richard Bennett,36,Virginia,2025-03-09,2865.76,Student
+CUST00121,Riley Vasquez,20,Kansas,2024-10-17,24552.31,Trader
+CUST00122,Morgan Smith,49,Nevada,2023-08-05,42644.98,Freelancer
+CUST00123,Mary Barnett,45,Louisiana,2023-08-16,25940.09,Student
+CUST00124,Patricia Welch,35,Connecticut,2023-07-24,79359.01,Trader
+CUST00125,Grace Cox,21,Florida,2024-06-04,12606.49,Student
+CUST00126,April Jordan,32,Alabama,2022-09-05,58636.06,Student
+CUST00127,Leslie Humphrey,33,Oklahoma,2022-12-08,69079.75,Student
+CUST00128,Jaclyn Holloway,44,South Dakota,2024-06-04,73708.31,Salaried Worker
+CUST00129,Mary Castillo,57,North Carolina,2025-01-02,60801.08,Trader
+CUST00130,Joshua Martin,39,Hawaii,2025-03-06,47007.23,Salaried Worker
+CUST00131,Eugene Blake,47,Nevada,2024-03-06,20075.44,Trader
+CUST00132,Shannon Mckinney,39,Maryland,2022-08-19,26120.36,Student
+CUST00133,Mr. Michael May DVM,46,Arizona,2024-01-24,7589.83,Salaried Worker
+CUST00134,John Taylor,28,Maine,2025-06-15,44024.26,Trader
+CUST00135,Bradley Steele,53,Rhode Island,2022-11-17,1724.29,Trader
+CUST00136,Charles Harrell PhD,32,Idaho,2025-03-30,25322.14,Trader
+CUST00137,Nathan Brennan,18,Nevada,2023-04-19,73285.85,Student
+CUST00138,Megan Shea,21,Mississippi,2023-04-13,56703.44,Student
+CUST00139,Alicia Guzman,61,Alaska,2023-04-17,74958.07,Salaried Worker
+CUST00140,Ricky Wilkerson,61,Pennsylvania,2024-06-18,28205.14,Trader
+CUST00141,Connie Donovan,45,Nevada,2023-04-17,67672.1,Trader
+CUST00142,Anthony Horton,40,Wyoming,2023-06-27,75877.98,Trader
+CUST00143,James Spencer,34,Pennsylvania,2025-01-27,65668.44,Student
+CUST00144,Matthew James,56,Alabama,2022-11-29,45447.94,Trader
+CUST00145,Rachel Sawyer,33,South Carolina,2023-06-19,18986.56,Trader
+CUST00146,James White,41,Oregon,2025-08-03,81616.42,Student
+CUST00147,Christopher Ryan,62,Nebraska,2023-09-18,75618.53,Salaried Worker
+CUST00148,Kristina Murphy,64,Montana,2022-11-25,75301.07,Trader
+CUST00149,James Johnson,38,West Virginia,2024-05-31,90242.56,Trader
+CUST00150,Dawn Reilly,40,Maryland,2023-11-08,88046.56,Trader
+CUST00151,Courtney Nelson,37,Vermont,2023-12-06,28784.74,Trader
+CUST00152,David West,49,Delaware,2024-08-09,4348.71,Trader
+CUST00153,Gerald Rocha,62,Utah,2024-04-07,93009.69,Trader
+CUST00154,Patricia Ramirez,64,New Jersey,2022-09-24,35869.81,Trader
+CUST00155,Jimmy Hendrix,22,Tennessee,2023-01-08,97417.45,Trader
+CUST00156,Carol Walsh,49,Delaware,2023-09-02,74326.32,Trader
+CUST00157,Ann Cook,31,Florida,2025-02-13,34503.55,Trader
+CUST00158,Christine Horton,36,Pennsylvania,2024-05-26,58677.81,Student
+CUST00159,Kelly Elliott,41,Montana,2025-03-30,92621.01,Salaried Worker
+CUST00160,Mr. Brian Pineda,53,Maine,2025-01-24,11869.91,Freelancer
+CUST00161,David Bennett,44,Virginia,2025-02-02,71583.51,Trader
+CUST00162,John Davis,58,New Jersey,2023-05-29,30317.8,Salaried Worker
+CUST00163,Lindsay Calhoun,58,Idaho,2024-05-23,9884.53,Trader
+CUST00164,Dr. Stephen Boyd,28,Mississippi,2024-05-11,37745.1,Trader
+CUST00165,Robert Choi,34,Virginia,2022-11-28,25964.42,Trader
+CUST00166,Adam White,47,Minnesota,2024-06-30,5597.41,Salaried Worker
+CUST00167,Ronald Morris,63,New Jersey,2025-03-02,97271.91,Trader
+CUST00168,Kathleen Bryan,52,Alaska,2023-03-27,29694.54,Student
+CUST00169,Rachel Alexander,32,Arizona,2023-04-06,43735.1,Trader
+CUST00170,Sean Wells,42,North Carolina,2025-07-17,76410.78,Freelancer
+CUST00171,Jessica Thompson,55,Illinois,2024-12-18,5047.73,Salaried Worker
+CUST00172,Robert Reynolds,24,Arizona,2023-02-05,54564.64,Salaried Worker
+CUST00173,Natasha Carey,19,South Carolina,2023-07-11,79136.32,Salaried Worker
+CUST00174,Connie Bryant,64,Mississippi,2025-05-12,84525.18,Salaried Worker
+CUST00175,Veronica Nelson,20,Texas,2023-04-15,70551.58,Salaried Worker
+CUST00176,Jennifer Phillips,51,North Dakota,2022-08-16,39220.62,Trader
+CUST00177,Andrea Holmes,24,Ohio,2023-07-21,56202.7,Trader
+CUST00178,Brooke Garcia,37,West Virginia,2025-04-20,18125.44,Salaried Worker
+CUST00179,Kyle Miller,18,California,2023-07-09,60943.85,Freelancer
+CUST00180,Adam Smith Jr.,47,Washington,2024-02-21,10888.65,Student
+CUST00181,Briana Norton,18,Arkansas,2022-12-06,87014.25,Trader
+CUST00182,Debra Duke,46,California,2024-04-11,95664.51,Student
+CUST00183,Eric Wright,22,Wyoming,2022-12-28,28768.13,Student
+CUST00184,Darlene James,20,Vermont,2025-07-25,20870.67,Salaried Worker
+CUST00185,Mark Barrett,47,Washington,2023-10-04,54471.98,Student
+CUST00186,Mary Osborn,18,California,2023-03-07,93908.44,Trader
+CUST00187,Michael Cooper,60,Wyoming,2023-12-15,41478.26,Student
+CUST00188,Jeffrey Skinner,28,Virginia,2024-04-02,10175.75,Student
+CUST00189,Lauren Chavez,34,New Jersey,2025-01-21,93596.94,Salaried Worker
+CUST00190,Jason Odom,56,Utah,2023-04-22,21233.22,Trader
+CUST00191,Pamela Hardy,38,Oregon,2025-07-29,62040.63,Trader
+CUST00192,Christopher Brown,45,Pennsylvania,2025-04-19,89092.69,Salaried Worker
+CUST00193,Mr. Kevin Johnson,21,Indiana,2024-05-23,57877.31,Student
+CUST00194,Erin Bennett,57,Florida,2024-10-11,9988.2,Trader
+CUST00195,David Chang,28,Nebraska,2025-02-08,61985.49,Freelancer
+CUST00196,Tristan Fleming,19,Idaho,2023-11-02,2629.18,Student
+CUST00197,Andrew Lopez,55,Oklahoma,2024-09-30,11025.44,Salaried Worker
+CUST00198,Haley Simpson,26,New Jersey,2023-08-19,71543.65,Salaried Worker
+CUST00199,Zachary Herrera,56,New Jersey,2023-12-24,81012.99,Salaried Worker
+CUST00200,Benjamin Hall,32,Idaho,2023-01-24,60084.42,Trader
+CUST00201,Jennifer Blackwell,54,Colorado,2023-05-25,51082.34,Salaried Worker
+CUST00202,Howard Lewis,29,Illinois,2024-12-24,1395.05,Trader
+CUST00203,Jennifer Ingram MD,54,Tennessee,2025-02-16,76705.05,Trader
+CUST00204,Katherine Smith,23,New York,2023-01-01,77666.92,Salaried Worker
+CUST00205,Susan Walters,58,Iowa,2022-12-21,75301.25,Salaried Worker
+CUST00206,Donald Baxter,29,New Jersey,2024-09-11,56772.12,Trader
+CUST00207,Cassandra Huang,61,New Mexico,2023-12-15,88837.01,Trader
+CUST00208,Nicole Gonzalez,50,North Dakota,2023-06-13,81086.27,Trader
+CUST00209,Robert Moore,62,Maine,2023-03-07,19894.19,Trader
+CUST00210,Annette French,47,Tennessee,2024-01-15,11655.81,Trader
+CUST00211,Yolanda Barber,60,Pennsylvania,2023-10-10,1830.44,Trader
+CUST00212,Joshua Greene,37,New Mexico,2024-02-13,21400.13,Student
+CUST00213,Shannon Williamson,27,Nevada,2025-05-01,73670.09,Salaried Worker
+CUST00214,Samantha Nelson,29,Minnesota,2023-11-26,47603.01,Freelancer
+CUST00215,Tara Paul,25,Washington,2024-01-02,69609.33,Salaried Worker
+CUST00216,Lance Smith,40,Alaska,2023-07-18,80424.06,Salaried Worker
+CUST00217,Mark Roberson,21,South Dakota,2024-06-29,36355.28,Trader
+CUST00218,Kenneth Willis,46,Kentucky,2025-03-25,87741.99,Student
+CUST00219,Patricia Miller,63,Mississippi,2023-12-21,78290.21,Trader
+CUST00220,Eileen Stout,50,Illinois,2025-04-23,59795.38,Student
+CUST00221,Louis Miller,21,Iowa,2024-02-10,68995.25,Trader
+CUST00222,Nicole Moore,32,West Virginia,2024-06-19,29176.94,Student
+CUST00223,Christopher Robbins,29,Oklahoma,2023-04-22,74887.65,Salaried Worker
+CUST00224,Karen Lowery,37,Indiana,2023-07-26,15172.01,Salaried Worker
+CUST00225,Brendan Evans,51,Massachusetts,2024-03-08,16486.46,Salaried Worker
+CUST00226,Nancy Mccoy,41,Tennessee,2024-01-03,63253.56,Trader
+CUST00227,Brendan Chambers,33,South Carolina,2025-06-22,22523.73,Student
+CUST00228,Michael Kelley,52,Hawaii,2024-09-11,42588.35,Trader
+CUST00229,Christopher Huynh,48,Nevada,2025-06-05,55519.49,Trader
+CUST00230,Elizabeth Scott,60,Montana,2022-10-20,68278.54,Student
+CUST00231,Andrew Rivera,24,Rhode Island,2024-06-19,85145.81,Student
+CUST00232,Catherine Johnson,60,North Dakota,2025-03-23,52749.74,Trader
+CUST00233,Nancy Morgan,31,Kentucky,2024-07-29,53196.68,Salaried Worker
+CUST00234,Edward Hopkins,62,Massachusetts,2023-10-06,75247.43,Student
+CUST00235,Sheila Bentley,49,New York,2024-07-31,82302.92,Trader
+CUST00236,Jennifer Martinez,44,South Carolina,2024-12-14,11799.32,Trader
+CUST00237,Kevin Brewer,40,Hawaii,2022-11-05,11834.59,Trader
+CUST00238,Gregory Woods,42,Missouri,2024-12-27,56372.42,Trader
+CUST00239,Jennifer Davis,62,Maine,2023-01-02,46588.12,Salaried Worker
+CUST00240,Thomas Miller,61,Louisiana,2023-08-26,50166.97,Trader
+CUST00241,Gina Leblanc,49,Montana,2023-01-11,20371.13,Student
+CUST00242,Robin Ward DDS,52,Louisiana,2023-09-10,85957.52,Salaried Worker
+CUST00243,Ronald Jackson,55,Utah,2025-04-22,17910.58,Trader
+CUST00244,Amy Short,26,Indiana,2024-07-14,27645.86,Freelancer
+CUST00245,Whitney Tran,38,Ohio,2024-07-19,22942.1,Student
+CUST00246,Shawn Gonzalez,63,Georgia,2025-06-05,84560.63,Trader
+CUST00247,Emma Molina,21,Florida,2025-07-04,17957.49,Trader
+CUST00248,Michael Barker,35,Oklahoma,2024-09-24,84058.38,Trader
+CUST00249,Shannon Roman,59,New York,2023-08-18,93599.24,Trader
+CUST00250,Justin Bowen,33,Pennsylvania,2022-11-07,51532.43,Freelancer
+CUST00251,Joshua Wilson,29,Indiana,2024-09-18,29028.81,Trader
+CUST00252,Maurice Wright,29,Tennessee,2025-06-07,10075.91,Salaried Worker
+CUST00253,Anthony Williams,61,Ohio,2023-06-21,5384.32,Salaried Worker
+CUST00254,Amanda King,42,Colorado,2023-10-28,60525.56,Trader
+CUST00255,Brett Snyder,48,Mississippi,2024-07-04,5735.78,Salaried Worker
+CUST00256,Mark Gentry,63,Idaho,2023-09-28,98549.62,Student
+CUST00257,Paige Acosta,62,Tennessee,2022-11-06,22682.55,Freelancer
+CUST00258,Timothy White,24,Wyoming,2023-05-08,95270.58,Salaried Worker
+CUST00259,Casey Le,40,Louisiana,2023-10-30,82835.44,Student
+CUST00260,Pamela Russell,58,Hawaii,2025-02-05,27064.1,Salaried Worker
+CUST00261,Dana Ibarra,50,New Jersey,2023-02-22,42068.59,Salaried Worker
+CUST00262,Jason Black,56,Michigan,2024-04-13,98899.44,Trader
+CUST00263,Anthony Gutierrez,26,Ohio,2023-03-23,24494.35,Student
+CUST00264,Sue Arroyo,61,Idaho,2024-02-09,48304.29,Trader
+CUST00265,Tracy Rice,53,New York,2024-09-22,64584.02,Salaried Worker
+CUST00266,Diane Elliott,34,Wyoming,2025-01-04,70957.17,Salaried Worker
+CUST00267,Brian Becker,29,Wyoming,2025-06-23,45314.17,Trader
+CUST00268,Alexander Clark,54,Kansas,2024-03-01,23274.88,Trader
+CUST00269,Brittany Jenkins,59,Florida,2023-06-01,78227.14,Freelancer
+CUST00270,Amber Weiss,63,Arkansas,2023-04-01,38781.88,Salaried Worker
+CUST00271,Desiree Reyes,51,Texas,2024-04-26,91820.15,Trader
+CUST00272,William Weaver,25,Hawaii,2023-12-10,37803.1,Trader
+CUST00273,Madison Mendez,35,Connecticut,2024-12-09,39390.81,Salaried Worker
+CUST00274,Rebecca Kennedy,37,Maine,2024-04-29,75401.36,Salaried Worker
+CUST00275,Christina Bell,28,Wisconsin,2024-11-21,32150.35,Student
+CUST00276,Anthony Smith,42,North Carolina,2023-08-23,68416.98,Freelancer
+CUST00277,Dr. Carol Vazquez DDS,62,Indiana,2025-05-07,77240.67,Student
+CUST00278,William Gonzalez,36,Arkansas,2023-11-07,35884.83,Salaried Worker
+CUST00279,Nicole Soto,34,Kentucky,2024-09-17,11155.72,Student
+CUST00280,Robert Orozco,40,North Dakota,2023-03-14,71007.52,Student
+CUST00281,Gary Ware,48,Georgia,2023-06-09,72043.52,Student
+CUST00282,Pamela Stewart,62,Iowa,2022-09-02,79221.77,Student
+CUST00283,Dr. Carlos Durham,20,Florida,2022-10-15,25674.6,Freelancer
+CUST00284,Kristen Ellis,29,Texas,2025-07-02,24922.56,Student
+CUST00285,Jeffrey Anderson,33,New Hampshire,2024-10-13,41864.2,Salaried Worker
+CUST00286,Christopher Curtis,28,Massachusetts,2023-05-05,84127.04,Salaried Worker
+CUST00287,Richard Hall,58,Idaho,2025-03-07,40201.59,Salaried Worker
+CUST00288,David Williams,48,Colorado,2023-08-13,66022.37,Freelancer
+CUST00289,Mrs. Jeanne Martinez,44,Tennessee,2024-11-29,35115.43,Freelancer
+CUST00290,Karen Jordan,62,Minnesota,2023-11-07,57111.79,Student
+CUST00291,Allison Ward,34,Maine,2025-03-14,1214.82,Salaried Worker
+CUST00292,Megan Stone,45,Alaska,2022-09-04,47036.94,Student
+CUST00293,Tiffany Roberts,19,Kentucky,2025-05-31,14881.03,Salaried Worker
+CUST00294,Heather Gonzales,55,Tennessee,2024-04-09,54544.82,Trader
+CUST00295,Karen Johnson,35,North Carolina,2023-09-11,72734.47,Student
+CUST00296,Anne Robles,54,Pennsylvania,2025-01-19,26534.4,Trader
+CUST00297,Kendra Park,30,Rhode Island,2024-08-06,57524.25,Trader
+CUST00298,Andrea Smith,33,South Dakota,2023-08-24,23065.05,Trader
+CUST00299,Patrick Green,63,Florida,2025-05-11,69626.72,Student
+CUST00300,Christian Armstrong,20,Alabama,2024-09-21,72231.57,Salaried Worker
+CUST00301,Krista Nelson,31,Washington,2024-06-27,24930.94,Student
+CUST00302,John Barrett,38,Maine,2022-08-23,30937.31,Trader
+CUST00303,Mr. Troy Douglas,61,Idaho,2023-09-19,28178.21,Salaried Worker
+CUST00304,Sergio Romero,41,Florida,2022-11-23,26159.73,Trader
+CUST00305,Charles Wilson,21,West Virginia,2024-01-01,8063.24,Salaried Worker
+CUST00306,Stephen Wilson,63,Alabama,2024-05-30,98714.95,Salaried Worker
+CUST00307,Kathleen Thompson,59,Arkansas,2025-06-09,93413.34,Student
+CUST00308,Charles Kent,51,Connecticut,2024-03-09,62706.13,Salaried Worker
+CUST00309,Amy Hendricks,51,Oregon,2025-05-11,74653.07,Student
+CUST00310,John Jones,24,West Virginia,2024-10-03,12912.71,Student
+CUST00311,Sandra Gray,22,Idaho,2022-10-27,73037.91,Trader
+CUST00312,Dylan Glenn,53,Kansas,2025-04-02,75546.76,Salaried Worker
+CUST00313,James Walker,37,Ohio,2023-04-27,9727.47,Salaried Worker
+CUST00314,Amanda Hensley,57,Wyoming,2023-02-03,79896.22,Salaried Worker
+CUST00315,Valerie Maldonado,21,Michigan,2024-10-02,10268.07,Freelancer
+CUST00316,Samuel Newton,40,Hawaii,2024-07-18,80365.55,Student
+CUST00317,Lisa Mejia,50,Wisconsin,2024-11-19,66770.78,Trader
+CUST00318,Ashley Cannon,21,Wyoming,2024-11-19,18232.7,Student
+CUST00319,Christopher Mendoza,35,Illinois,2025-07-19,74612.38,Trader
+CUST00320,Patricia Gallegos,21,Ohio,2023-07-31,41555.33,Salaried Worker
+CUST00321,April Smith,58,Nebraska,2023-09-10,90389.99,Freelancer
+CUST00322,Ruben Woodward,52,Oregon,2023-01-17,34028.4,Student
+CUST00323,Amanda Anderson,48,California,2025-06-04,29609.66,Salaried Worker
+CUST00324,Jordan Campbell,38,Florida,2023-06-14,43312.51,Salaried Worker
+CUST00325,Robin Smith,45,Missouri,2023-07-15,20506.71,Trader
+CUST00326,Stephanie Jenkins,24,New Hampshire,2024-05-15,17731.73,Trader
+CUST00327,Heather Simon,63,Delaware,2024-02-15,43446.56,Trader
+CUST00328,Larry Mann,31,Michigan,2024-05-09,59925.26,Salaried Worker
+CUST00329,Kevin Walter,18,Delaware,2024-03-21,50488.08,Trader
+CUST00330,Katrina Davis,21,New Hampshire,2023-01-21,75433.22,Salaried Worker
+CUST00331,Taylor Browning MD,45,Pennsylvania,2023-10-23,91622.35,Freelancer
+CUST00332,Stacey Brown,50,Alaska,2025-02-20,81062.91,Salaried Worker
+CUST00333,Jonathan Mayer,49,Delaware,2024-01-17,24805.06,Trader
+CUST00334,Kenneth Warner,53,Rhode Island,2023-04-29,45812.48,Salaried Worker
+CUST00335,John Smith,58,Louisiana,2023-12-12,35830.09,Salaried Worker
+CUST00336,Victoria Freeman,42,Kansas,2023-04-09,19564.11,Salaried Worker
+CUST00337,Rebecca Schwartz,39,Wyoming,2025-03-12,95541.4,Freelancer
+CUST00338,Seth Hunter,22,Utah,2022-12-06,9087.64,Salaried Worker
+CUST00339,Anthony Martinez,31,Virginia,2025-06-23,7869.06,Student
+CUST00340,Christopher Bell,42,South Dakota,2024-03-30,94948.21,Salaried Worker
+CUST00341,Dr. William Estrada,22,North Carolina,2023-10-24,26228.74,Trader
+CUST00342,Daniel Shah,22,Maryland,2024-01-08,29488.23,Freelancer
+CUST00343,Benjamin Frank,21,Washington,2025-02-18,68829.84,Trader
+CUST00344,Jeffrey Watts,59,Wisconsin,2024-09-06,19668.69,Salaried Worker
+CUST00345,Lindsay Ayers,29,South Dakota,2025-01-12,37755.91,Salaried Worker
+CUST00346,Brian Solis,55,Mississippi,2022-12-18,7432.72,Freelancer
+CUST00347,Drew Perez,60,Iowa,2023-06-04,61173.91,Student
+CUST00348,Brian Keller,49,New Hampshire,2025-04-23,41064.73,Student
+CUST00349,Hannah Rose,54,Oklahoma,2024-10-24,22628.43,Student
+CUST00350,Daniel Miller,54,Colorado,2025-06-19,66717.96,Student
+CUST00351,Steven Torres,33,Michigan,2024-04-18,23103.87,Freelancer
+CUST00352,Robert Stevens,23,Rhode Island,2025-07-11,68735.06,Trader
+CUST00353,Robert Tran,58,Colorado,2023-07-04,48429.3,Trader
+CUST00354,Wayne Harris,55,Oklahoma,2024-05-26,98479.47,Student
+CUST00355,Travis Davis,39,North Carolina,2025-01-12,9597.0,Trader
+CUST00356,Larry Parker,38,Delaware,2024-12-20,2967.45,Salaried Worker
+CUST00357,Scott Cross,48,Tennessee,2025-03-30,18903.3,Salaried Worker
+CUST00358,Tamara Ramirez,38,Vermont,2025-05-24,89930.84,Trader
+CUST00359,Edward Fritz,23,Idaho,2024-01-15,96440.07,Salaried Worker
+CUST00360,Jorge Carlson,62,Vermont,2023-06-15,73935.4,Salaried Worker
+CUST00361,William Brooks,23,Utah,2022-11-10,83376.49,Student
+CUST00362,William Burns,40,West Virginia,2024-12-08,11444.59,Trader
+CUST00363,Shannon Miller,33,Wisconsin,2022-09-07,34854.2,Salaried Worker
+CUST00364,Michael Herrera,40,Florida,2023-06-09,70155.36,Freelancer
+CUST00365,Heather Adkins,62,Wyoming,2024-12-22,42869.36,Student
+CUST00366,Amber Campbell,29,Wisconsin,2024-06-01,33759.48,Student
+CUST00367,Frank Lopez,28,West Virginia,2025-08-04,30610.04,Student
+CUST00368,Lisa Anderson,20,Kansas,2024-11-17,4756.92,Trader
+CUST00369,Molly Richardson,51,Oklahoma,2023-11-21,21110.85,Freelancer
+CUST00370,Michelle Cuevas,18,Vermont,2025-05-14,65353.5,Trader
+CUST00371,Elaine Boyle,62,Arizona,2023-12-06,13245.48,Freelancer
+CUST00372,Maria Nelson,20,Pennsylvania,2023-10-01,15659.58,Student
+CUST00373,William Sexton,41,Ohio,2025-02-17,69776.87,Salaried Worker
+CUST00374,Sylvia Chapman,55,Maine,2023-09-12,16375.76,Student
+CUST00375,John Johnson,51,Nebraska,2024-04-30,22575.24,Trader
+CUST00376,Leslie Massey,28,Mississippi,2023-04-14,7515.09,Trader
+CUST00377,Alexander Ho,25,Maine,2024-08-14,63840.31,Salaried Worker
+CUST00378,Brenda Harrison,26,Missouri,2024-04-28,78323.06,Trader
+CUST00379,Robin Martinez,45,Georgia,2025-05-08,58141.23,Salaried Worker
+CUST00380,Cynthia Walters,29,Utah,2023-02-13,25539.74,Trader
+CUST00381,Ann Webster,19,Illinois,2023-05-20,70555.95,Student
+CUST00382,Sarah Rodriguez,26,California,2025-05-28,51895.81,Salaried Worker
+CUST00383,Stephanie French MD,40,Nevada,2023-07-16,13879.14,Student
+CUST00384,Craig Webb,53,Indiana,2022-09-28,18530.55,Salaried Worker
+CUST00385,Timothy Parrish,29,Delaware,2024-12-17,4878.65,Trader
+CUST00386,James Butler,62,South Carolina,2023-12-04,3474.83,Salaried Worker
+CUST00387,Mitchell White,53,Iowa,2024-06-17,16838.49,Salaried Worker
+CUST00388,Luis Tapia,32,California,2024-08-02,69329.45,Salaried Worker
+CUST00389,Dr. Veronica Weber,57,Iowa,2022-09-04,30806.03,Trader
+CUST00390,Diana Nixon,57,Massachusetts,2023-02-05,40331.22,Salaried Worker
+CUST00391,Donna Johnson,47,Illinois,2024-12-29,75658.56,Trader
+CUST00392,Robert Oliver,58,Mississippi,2024-02-17,12824.17,Trader
+CUST00393,Michelle Payne,36,Alabama,2024-11-17,54349.97,Student
+CUST00394,Leslie Kirk,59,Texas,2022-12-19,88233.49,Student
+CUST00395,Amanda Kane,60,Ohio,2023-01-25,83825.59,Freelancer
+CUST00396,Sherry Knight,63,Hawaii,2023-01-06,35647.12,Salaried Worker
+CUST00397,Theresa Cole,52,Wyoming,2025-05-02,38789.91,Salaried Worker
+CUST00398,Kim Good,27,Wisconsin,2025-01-23,49491.63,Student
+CUST00399,Joshua Taylor,19,Iowa,2023-01-06,56638.72,Trader
+CUST00400,Rita Wright,43,Rhode Island,2024-05-12,62008.58,Student
+CUST00401,Christian Davis,42,Kansas,2023-11-08,13678.01,Trader
+CUST00402,Lawrence Conner,57,Minnesota,2023-09-08,59608.19,Salaried Worker
+CUST00403,Alexander Lopez,52,California,2025-04-27,50048.87,Trader
+CUST00404,Jason Moore,57,Georgia,2024-08-10,1663.75,Salaried Worker
+CUST00405,Natasha Evans,37,Washington,2022-10-07,30112.93,Trader
+CUST00406,Alex Wilkerson,47,Connecticut,2024-06-26,55349.92,Trader
+CUST00407,Madison Murphy,25,Colorado,2024-06-27,82268.22,Trader
+CUST00408,Joseph Pacheco,22,Nevada,2024-01-18,26391.87,Trader
+CUST00409,Kristin Brooks,19,Michigan,2022-11-26,4618.83,Salaried Worker
+CUST00410,Allison Parker,27,Hawaii,2024-03-05,67878.23,Salaried Worker
+CUST00411,Edward Ellis,57,Georgia,2025-07-06,629.02,Student
+CUST00412,Chris Marquez,18,New Mexico,2023-03-24,98732.47,Trader
+CUST00413,David Bender,25,New York,2022-12-19,14282.16,Trader
+CUST00414,Brian Thomas,44,Minnesota,2022-12-22,44879.45,Salaried Worker
+CUST00415,Kevin Butler,20,Texas,2024-08-31,15527.08,Student
+CUST00416,Melissa Morales,64,Pennsylvania,2025-04-25,46291.31,Trader
+CUST00417,Amanda Ferguson,22,Arkansas,2024-10-04,62971.81,Trader
+CUST00418,Holly Edwards,37,Indiana,2023-06-26,96836.89,Trader
+CUST00419,Susan Jones,41,Rhode Island,2024-11-12,23399.8,Salaried Worker
+CUST00420,Alyssa Whitehead,33,Illinois,2025-04-30,50179.94,Student
+CUST00421,Mallory Lee,23,Massachusetts,2023-03-31,25422.49,Student
+CUST00422,Hayley Woodward,57,Delaware,2024-03-08,13376.77,Trader
+CUST00423,Shelley Lopez,42,Alabama,2025-03-22,79381.92,Trader
+CUST00424,Sabrina Gilbert,59,North Dakota,2023-03-28,229.87,Trader
+CUST00425,Kerri Nunez,47,Illinois,2023-07-26,28130.88,Freelancer
+CUST00426,Mr. Brendan Howard DVM,64,North Carolina,2023-02-28,5473.8,Trader
+CUST00427,Mary Swanson,59,Montana,2024-11-22,1753.19,Salaried Worker
+CUST00428,Christina Bailey,45,Colorado,2025-06-17,56100.38,Freelancer
+CUST00429,Stephen Bowers,61,Indiana,2024-10-19,74858.07,Salaried Worker
+CUST00430,David Henry,60,Wyoming,2024-03-20,53868.94,Trader
+CUST00431,Gregory Gross DDS,51,Vermont,2023-09-09,71623.37,Trader
+CUST00432,Anthony Gordon,56,Illinois,2023-03-26,79854.96,Trader
+CUST00433,Bradley Alvarado,41,Nebraska,2024-03-20,47447.97,Trader
+CUST00434,Brian Scott,39,Wisconsin,2025-06-18,46133.43,Trader
+CUST00435,Jason Turner,18,Delaware,2025-03-06,15938.17,Student
+CUST00436,Eric Rangel,32,Illinois,2025-04-02,66892.58,Student
+CUST00437,Dr. Fred Black,52,North Carolina,2024-10-17,21493.74,Trader
+CUST00438,James Valenzuela,60,Kansas,2025-02-21,63730.26,Salaried Worker
+CUST00439,Tiffany Craig,57,Connecticut,2024-03-09,78693.77,Student
+CUST00440,Audrey Cooley,31,Maine,2023-05-06,44805.06,Student
+CUST00441,Jennifer Martinez,30,Illinois,2023-01-17,60859.18,Trader
+CUST00442,Jose Aguirre,56,Louisiana,2023-12-21,22377.5,Trader
+CUST00443,Tiffany Scott,24,Michigan,2024-12-08,86757.55,Salaried Worker
+CUST00444,Jacob Wilson,33,Maryland,2023-02-26,62828.09,Salaried Worker
+CUST00445,Thomas Ray,63,California,2025-07-23,52064.7,Student
+CUST00446,Michael Barrera,62,New York,2025-05-21,52751.09,Student
+CUST00447,Kerry Lynch,61,Nevada,2025-02-26,58915.01,Trader
+CUST00448,Tyler Davis,64,South Carolina,2025-03-17,62347.43,Trader
+CUST00449,Matthew Crawford,28,Utah,2024-11-18,60961.06,Trader
+CUST00450,Billy Shaw,30,Mississippi,2025-05-29,68412.07,Trader
+CUST00451,Vanessa Martin,53,South Carolina,2024-12-29,72725.6,Student
+CUST00452,Jenna Knight,63,New Mexico,2025-02-15,23011.07,Trader
+CUST00453,Todd Goodwin,48,West Virginia,2022-11-18,80288.52,Salaried Worker
+CUST00454,Kirsten Riggs,32,Oregon,2024-09-04,78993.75,Trader
+CUST00455,Elizabeth Peterson,56,Vermont,2023-08-12,11212.67,Salaried Worker
+CUST00456,Karen Ortega,47,Utah,2023-04-25,44787.2,Trader
+CUST00457,Stephanie Moore,43,Tennessee,2022-09-30,63685.59,Trader
+CUST00458,Joseph Hickman,58,Pennsylvania,2024-07-09,5517.96,Student
+CUST00459,Richard Wong,51,Rhode Island,2023-08-11,87860.6,Trader
+CUST00460,Alice Jennings,49,Rhode Island,2022-12-09,26650.58,Salaried Worker
+CUST00461,Susan Willis,24,Arizona,2023-12-26,29666.89,Student
+CUST00462,Christine Meyer,32,Virginia,2025-05-24,76287.54,Student
+CUST00463,Robert Larsen,25,Rhode Island,2023-05-28,71143.33,Salaried Worker
+CUST00464,Jessica Sellers,60,Nebraska,2022-10-15,97452.67,Trader
+CUST00465,Linda Campos,47,Alabama,2025-02-28,38996.97,Student
+CUST00466,Shannon Beltran,62,Kentucky,2023-01-15,47292.43,Salaried Worker
+CUST00467,Edwin Long,54,Washington,2022-11-22,79110.6,Trader
+CUST00468,Amy Harper,33,Alabama,2024-07-14,82732.96,Salaried Worker
+CUST00469,Gabrielle Singh,25,Arkansas,2025-02-20,6898.87,Trader
+CUST00470,Sandra Watkins,43,Utah,2024-09-16,14026.34,Freelancer
+CUST00471,Jared Carney,27,Nebraska,2023-01-02,50137.14,Salaried Worker
+CUST00472,Noah Torres,54,Alabama,2024-04-28,61744.72,Trader
+CUST00473,Megan Doyle,29,Oregon,2025-08-13,94975.13,Freelancer
+CUST00474,David Chapman II,21,Hawaii,2023-05-07,35446.03,Trader
+CUST00475,Tyler Villa,44,Georgia,2023-02-10,57269.91,Salaried Worker
+CUST00476,Robert Savage MD,64,Delaware,2025-07-14,65020.99,Trader
+CUST00477,Melissa Young,62,New Mexico,2024-11-14,28211.16,Salaried Worker
+CUST00478,Theresa Bennett,51,Arizona,2022-09-29,94244.83,Salaried Worker
+CUST00479,Jessica Lozano,32,New Jersey,2024-08-18,22140.75,Salaried Worker
+CUST00480,Nancy Good,31,Minnesota,2023-05-18,1372.78,Trader
+CUST00481,Jodi Lopez,52,Missouri,2025-07-23,57823.48,Trader
+CUST00482,Roy Love,33,Arizona,2024-12-12,63401.21,Trader
+CUST00483,Ryan Barber,32,Virginia,2023-10-15,59974.29,Trader
+CUST00484,Sally Johnson,20,Kentucky,2025-03-21,25078.42,Trader
+CUST00485,Nicholas Kline,42,Delaware,2025-07-25,82116.35,Freelancer
+CUST00486,David Huang,22,Colorado,2024-06-16,11701.78,Student
+CUST00487,Shelley Allen,60,Arizona,2024-04-23,4090.56,Salaried Worker
+CUST00488,Anna Joseph,23,Arkansas,2024-07-10,25524.05,Student
+CUST00489,Mikayla Cruz,61,Rhode Island,2023-06-16,47613.06,Trader
+CUST00490,James Fisher,43,Arizona,2023-01-08,85718.55,Student
+CUST00491,Tony Webb,26,Maryland,2025-05-13,21532.61,Salaried Worker
+CUST00492,Jerry Mcgee,42,Georgia,2024-10-08,81497.24,Salaried Worker
+CUST00493,Leslie Daniels,57,Hawaii,2023-10-09,59810.26,Student
+CUST00494,Mrs. Shannon Durham MD,29,Hawaii,2023-04-11,75972.24,Trader
+CUST00495,Roberto Giles,40,Virginia,2024-07-14,44382.01,Trader
+CUST00496,Andrew Flores,56,Delaware,2024-07-14,3217.19,Trader
+CUST00497,Mark Lewis,49,Iowa,2025-04-03,22386.7,Student
+CUST00498,Mario Hernandez,25,Maryland,2024-02-11,30217.87,Student
+CUST00499,Leonard Gordon,63,Ohio,2023-01-18,7676.69,Trader
+CUST00500,Stacey Mendoza,64,Maine,2025-01-02,15757.25,Trader
+CUST00501,Christina Davidson,48,Illinois,2025-06-24,13379.71,Trader
+CUST00502,Bethany Clark,20,Mississippi,2024-03-15,14786.23,Freelancer
+CUST00503,Joseph Hernandez,47,Hawaii,2025-08-02,63136.2,Student
+CUST00504,Michael Hall,52,Minnesota,2023-01-26,38992.02,Trader
+CUST00505,Danielle Flowers,26,Maine,2024-01-23,73591.69,Trader
+CUST00506,Kevin Thompson,47,California,2025-04-02,64698.1,Trader
+CUST00507,Derrick Sanchez,31,Arkansas,2024-11-15,13376.38,Freelancer
+CUST00508,Samantha Kim,41,Tennessee,2023-07-21,45009.32,Trader
+CUST00509,Jennifer Estes,26,California,2024-05-16,42070.47,Student
+CUST00510,John Tucker,39,Missouri,2024-02-13,52936.61,Trader
+CUST00511,Ashley Anderson,53,Hawaii,2023-01-18,85047.64,Salaried Worker
+CUST00512,Eric Reese,48,Massachusetts,2023-10-13,28820.48,Salaried Worker
+CUST00513,Angel Gonzalez,45,Connecticut,2024-12-07,53446.37,Salaried Worker
+CUST00514,Amy Jackson,51,Illinois,2022-11-25,37864.38,Trader
+CUST00515,Mark Hall,54,Alabama,2023-04-13,89167.52,Trader
+CUST00516,Michael Butler,53,Arkansas,2023-02-07,24492.35,Trader
+CUST00517,Amanda Smith,52,New Hampshire,2023-01-26,31327.45,Trader
+CUST00518,David King,18,North Carolina,2025-01-03,47598.79,Trader
+CUST00519,Melissa Wright,62,West Virginia,2025-08-10,33121.95,Trader
+CUST00520,Sonya Blair,29,Ohio,2023-05-04,76606.94,Salaried Worker
+CUST00521,Lori Chaney,21,Connecticut,2023-12-18,85238.89,Student
+CUST00522,Diana Dixon,18,Illinois,2024-01-21,52423.61,Freelancer
+CUST00523,Alex Allen,64,Michigan,2022-08-26,32481.61,Salaried Worker
+CUST00524,Allen Jones,56,Texas,2025-02-17,65145.83,Trader
+CUST00525,Isaac Fischer,50,New Hampshire,2025-04-19,42764.9,Salaried Worker
+CUST00526,Laura Parks,44,Maine,2024-05-23,60911.41,Salaried Worker
+CUST00527,Francis Strickland,43,Arizona,2023-09-23,67807.11,Salaried Worker
+CUST00528,Samantha Richardson,47,Mississippi,2024-05-26,76844.39,Salaried Worker
+CUST00529,Marc Conner,60,New Mexico,2024-05-12,62051.34,Freelancer
+CUST00530,Jamie Perez,59,Kentucky,2025-02-28,61403.41,Salaried Worker
+CUST00531,Steven Morgan,23,Montana,2022-11-14,98862.54,Student
+CUST00532,Catherine Mora,37,West Virginia,2024-04-27,27081.32,Trader
+CUST00533,Scott Hughes,39,Hawaii,2023-06-04,47546.18,Student
+CUST00534,Lauren Gaines DDS,56,Alabama,2023-01-25,27514.6,Trader
+CUST00535,Joseph Wise,23,Virginia,2024-08-29,87702.09,Student
+CUST00536,Caleb Garrett,25,Hawaii,2024-11-17,86643.86,Trader
+CUST00537,Sandra Johnson,59,Michigan,2022-12-20,5097.41,Trader
+CUST00538,Tony Jones,36,South Dakota,2024-06-20,68878.06,Salaried Worker
+CUST00539,Annette Larson,37,Mississippi,2025-03-17,93065.02,Salaried Worker
+CUST00540,Alisha Haynes,19,Oklahoma,2022-11-15,82654.08,Trader
+CUST00541,James Adkins,64,Texas,2022-09-27,65921.06,Salaried Worker
+CUST00542,Sandra Johnson,56,Washington,2023-08-28,31514.5,Trader
+CUST00543,Jeffrey Adams,58,Arizona,2024-05-04,47294.77,Trader
+CUST00544,Lindsey Burns,44,Ohio,2024-06-19,3706.58,Student
+CUST00545,Rachel Parker,24,Maine,2023-09-06,23883.14,Salaried Worker
+CUST00546,Rose Gonzales,20,Wyoming,2023-12-16,94071.69,Student
+CUST00547,Nathan Olson,47,Colorado,2024-04-30,49338.92,Trader
+CUST00548,David Schwartz,43,Delaware,2024-09-22,16060.53,Trader
+CUST00549,Kayla Stewart,20,Oregon,2023-06-28,64722.25,Trader
+CUST00550,Adam Dorsey,60,New Mexico,2024-12-07,13630.68,Student
+CUST00551,Allen Shea,53,Maine,2025-02-20,48824.81,Trader
+CUST00552,Dana Sweeney,45,Vermont,2024-03-27,84363.82,Trader
+CUST00553,Samantha Wyatt,58,Missouri,2025-02-26,66762.32,Student
+CUST00554,Andrea Mckee,23,Wyoming,2022-12-24,61722.62,Trader
+CUST00555,Virginia Bishop,62,Hawaii,2023-02-01,76568.92,Salaried Worker
+CUST00556,Jillian Nelson,19,California,2025-01-28,80386.49,Salaried Worker
+CUST00557,Kimberly Goodman,44,Louisiana,2023-06-27,61674.85,Trader
+CUST00558,Caroline Burnett,35,New Hampshire,2023-10-05,72400.62,Student
+CUST00559,Ann Scott,22,Maryland,2023-09-04,26563.8,Freelancer
+CUST00560,Roy Walker,19,Connecticut,2024-02-07,70182.5,Salaried Worker
+CUST00561,Felicia Torres,49,Idaho,2022-11-21,11595.1,Salaried Worker
+CUST00562,Joshua Taylor,19,Oklahoma,2023-09-17,50657.39,Student
+CUST00563,Ryan Tran,39,Minnesota,2025-06-17,85061.3,Trader
+CUST00564,Tyler Haynes,28,Iowa,2023-09-13,44720.08,Salaried Worker
+CUST00565,Charles Valdez,52,Nevada,2023-06-17,29013.28,Student
+CUST00566,John Carter,22,New Mexico,2023-07-13,61277.3,Trader
+CUST00567,Eric Hobbs,53,Connecticut,2023-04-20,15570.48,Freelancer
+CUST00568,Madeline Wright,43,North Carolina,2024-08-24,23537.84,Student
+CUST00569,Alexis Adkins,50,New Mexico,2023-04-05,25352.68,Salaried Worker
+CUST00570,Rodney Torres,51,Alabama,2023-11-03,36775.76,Trader
+CUST00571,Kimberly Hansen,19,South Carolina,2024-01-18,42978.63,Salaried Worker
+CUST00572,Dr. Derek Schmidt Jr.,51,Michigan,2023-12-01,81926.37,Trader
+CUST00573,Stephanie Peck,63,Tennessee,2023-09-28,27829.67,Student
+CUST00574,Crystal Torres,28,Arkansas,2023-10-15,54789.13,Student
+CUST00575,Michael Allen,20,West Virginia,2025-01-20,25963.18,Salaried Worker
+CUST00576,Mr. Richard White,32,Idaho,2023-11-29,25230.84,Salaried Worker
+CUST00577,Kara Anderson,33,Arkansas,2023-02-17,38186.65,Salaried Worker
+CUST00578,Ashley Gonzales,23,Kansas,2025-07-02,2246.78,Student
+CUST00579,Dan Acevedo,30,Wisconsin,2023-03-18,71384.47,Trader
+CUST00580,Thomas Mendoza,22,Montana,2023-04-11,966.55,Trader
+CUST00581,Rodney Casey,18,Mississippi,2024-08-25,34374.55,Student
+CUST00582,Christine Hensley,54,New Hampshire,2023-10-04,26753.55,Student
+CUST00583,Jeffrey Irwin,31,Tennessee,2024-06-22,98734.8,Student
+CUST00584,Frank Hart,50,Arizona,2024-05-04,61837.45,Salaried Worker
+CUST00585,Susan Rangel,63,New Mexico,2023-05-23,10453.71,Trader
+CUST00586,Stacy Carpenter,56,Hawaii,2023-09-06,94541.09,Student
+CUST00587,Brian Brown,48,Arizona,2023-08-01,23184.15,Trader
+CUST00588,Jason Ray,19,Nevada,2022-08-28,80533.97,Trader
+CUST00589,Nichole Mendoza,36,Nevada,2023-08-02,99635.71,Trader
+CUST00590,Carolyn Lee,56,Oklahoma,2024-10-13,98087.43,Student
+CUST00591,Brenda James,19,Vermont,2024-07-19,78634.6,Trader
+CUST00592,Mary Moses,30,Mississippi,2025-03-29,99976.28,Salaried Worker
+CUST00593,Randall Richards,43,Arkansas,2023-07-19,18328.9,Trader
+CUST00594,Megan Smith,48,Wyoming,2022-10-11,76159.38,Salaried Worker
+CUST00595,Mark Palmer,45,Massachusetts,2023-04-25,61176.24,Student
+CUST00596,Daniel Bauer,32,Alabama,2023-06-15,74320.41,Trader
+CUST00597,Ian Rosario,25,Florida,2022-11-08,23974.39,Salaried Worker
+CUST00598,Jeffrey Lynch,62,Washington,2024-04-18,90805.09,Student
+CUST00599,Brian Gonzalez,18,Colorado,2023-10-25,16996.54,Trader
+CUST00600,Justin Wolfe,55,Alaska,2025-01-13,12795.41,Salaried Worker
+CUST00601,Larry Frazier,63,North Dakota,2022-08-27,89497.56,Student
+CUST00602,Carolyn Smith,45,Utah,2025-04-10,74281.02,Student
+CUST00603,Emily Terry,49,Nebraska,2024-10-26,60200.32,Salaried Worker
+CUST00604,Cody Brown,47,Oklahoma,2024-11-19,73812.7,Student
+CUST00605,Ana Ballard,64,New Hampshire,2024-04-01,993.06,Salaried Worker
+CUST00606,Dustin Stewart,50,Tennessee,2023-12-24,84841.19,Salaried Worker
+CUST00607,David Dixon,54,Kansas,2025-01-26,5102.44,Salaried Worker
+CUST00608,Joseph George,36,Alabama,2023-04-30,51578.73,Trader
+CUST00609,Jesus Warren,25,Michigan,2022-08-23,3193.62,Trader
+CUST00610,Courtney Taylor,36,Washington,2022-09-28,75336.58,Freelancer
+CUST00611,Mary Stafford,51,Tennessee,2023-05-15,27498.08,Student
+CUST00612,Jay Foley,46,Idaho,2024-02-22,44545.38,Salaried Worker
+CUST00613,Albert Horn,20,Florida,2022-09-30,98506.6,Salaried Worker
+CUST00614,Raymond Cooper,54,South Dakota,2025-03-09,75272.7,Student
+CUST00615,Steven Gomez,61,California,2024-10-11,11305.99,Trader
+CUST00616,Anthony Preston,42,Michigan,2024-11-10,95295.41,Student
+CUST00617,Danielle Todd,62,Mississippi,2024-02-08,47281.58,Trader
+CUST00618,Jamie Richardson,57,Kentucky,2025-05-16,83586.26,Freelancer
+CUST00619,Linda Long,26,Wyoming,2024-01-07,12972.08,Trader
+CUST00620,Kayla Ferguson,25,Illinois,2025-03-14,11151.86,Trader
+CUST00621,Lawrence Doyle,60,Maine,2025-07-27,26400.18,Salaried Worker
+CUST00622,Michael Howard,24,Michigan,2023-08-26,3021.75,Trader
+CUST00623,Chris Gibson,63,Utah,2024-11-27,61332.93,Salaried Worker
+CUST00624,Alicia Hanson,30,Washington,2023-02-12,17980.79,Freelancer
+CUST00625,Heather Huerta,64,Missouri,2024-11-26,94661.54,Trader
+CUST00626,Zachary Williams,50,New Hampshire,2025-02-28,99669.55,Salaried Worker
+CUST00627,Thomas Gonzalez,58,New Jersey,2024-03-19,92002.43,Trader
+CUST00628,Sheila Ramirez,49,Georgia,2023-05-20,26581.68,Student
+CUST00629,Robyn Sullivan,38,California,2023-10-07,43350.29,Salaried Worker
+CUST00630,Michelle Sanchez,38,Nebraska,2023-11-23,34679.88,Student
+CUST00631,Michael Ibarra,49,California,2024-08-22,39445.9,Trader
+CUST00632,Michael Carter,33,New York,2022-09-07,82393.1,Trader
+CUST00633,Ashley Riley,22,Mississippi,2023-10-03,37809.31,Student
+CUST00634,Tammie Knox,53,Mississippi,2023-02-07,90354.55,Trader
+CUST00635,Michael Martin,40,Georgia,2025-04-12,6342.91,Trader
+CUST00636,Ashley Reeves,38,New York,2023-11-25,41122.58,Student
+CUST00637,John Jones,41,Florida,2022-09-25,809.6,Student
+CUST00638,Chelsea Herrera,23,Idaho,2023-07-28,35847.0,Student
+CUST00639,Emma Hartman,21,Iowa,2025-01-18,31709.63,Salaried Worker
+CUST00640,Christopher Dominguez,27,Connecticut,2022-08-19,73340.78,Student
+CUST00641,Michelle Gardner,29,Georgia,2025-01-22,47889.85,Salaried Worker
+CUST00642,Mrs. Michelle Hernandez,59,Alabama,2023-12-06,39658.4,Student
+CUST00643,Erin Davenport,47,New York,2025-06-25,56361.06,Trader
+CUST00644,Gary Martin,18,North Carolina,2022-11-17,2750.64,Trader
+CUST00645,Sally Baker,36,New Hampshire,2024-02-10,77576.35,Salaried Worker
+CUST00646,Kimberly Strong,54,Minnesota,2025-05-08,32954.58,Student
+CUST00647,Marisa Smith,39,South Carolina,2023-12-15,50414.71,Salaried Worker
+CUST00648,Brian Mccarthy,19,Wisconsin,2024-02-24,93983.18,Salaried Worker
+CUST00649,April Wilkinson,19,New York,2024-03-23,92316.97,Freelancer
+CUST00650,Kimberly Beltran,56,Connecticut,2023-03-31,76066.37,Trader
+CUST00651,Jason Pugh,59,Rhode Island,2023-11-23,49313.83,Salaried Worker
+CUST00652,Richard Martin,36,Wisconsin,2023-12-22,57369.46,Salaried Worker
+CUST00653,Toni Diaz,56,New Jersey,2024-03-18,14544.03,Salaried Worker
+CUST00654,Debra Garcia,24,Kentucky,2024-10-18,86845.29,Trader
+CUST00655,Jennifer Green DDS,48,North Carolina,2023-03-29,16148.23,Trader
+CUST00656,Joseph Fisher,35,Nebraska,2025-01-23,75448.11,Salaried Worker
+CUST00657,Harry White,18,Wisconsin,2025-02-24,90235.94,Trader
+CUST00658,Sydney Hunt,18,Wisconsin,2025-03-19,5823.32,Student
+CUST00659,William Peters MD,35,Louisiana,2023-07-30,81805.34,Trader
+CUST00660,Charles Larson,55,Washington,2023-02-18,54947.0,Salaried Worker
+CUST00661,Rebecca Morales,20,New Hampshire,2025-06-25,62448.03,Trader
+CUST00662,Ricardo Kim,35,New Jersey,2025-04-04,53965.19,Salaried Worker
+CUST00663,John Martin,39,Virginia,2024-08-21,74795.57,Freelancer
+CUST00664,Melissa Ayala,25,Kansas,2022-09-27,84169.26,Salaried Worker
+CUST00665,Ebony Jones DVM,55,California,2023-10-23,2643.92,Student
+CUST00666,Jamie Gregory,27,Montana,2022-08-21,47088.86,Student
+CUST00667,Lawrence Smith,20,Kansas,2024-04-06,3386.21,Salaried Worker
+CUST00668,Rachel Mercado,61,Pennsylvania,2025-02-05,27864.95,Student
+CUST00669,Gina Lewis MD,34,Michigan,2025-05-11,85834.51,Trader
+CUST00670,Alejandro Hayes,24,Oregon,2022-12-26,12783.64,Student
+CUST00671,Lisa Hernandez,54,Utah,2025-06-02,44248.3,Student
+CUST00672,Mary Mcdaniel,39,Pennsylvania,2024-07-30,85196.71,Salaried Worker
+CUST00673,Patrick Martin,64,Washington,2024-07-29,88350.39,Salaried Worker
+CUST00674,Timothy Cuevas,58,Connecticut,2025-03-14,27727.11,Student
+CUST00675,James Byrd,28,Idaho,2024-06-19,78219.11,Trader
+CUST00676,Amanda Jackson,36,South Carolina,2023-10-30,14097.27,Salaried Worker
+CUST00677,Jeremiah Alvarez,46,Ohio,2024-10-03,50877.09,Trader
+CUST00678,Angel Brown,45,Ohio,2022-08-30,60704.67,Salaried Worker
+CUST00679,Jackson Ortiz,45,Kentucky,2023-03-18,51446.9,Trader
+CUST00680,Geoffrey Wagner,53,Virginia,2024-09-22,46588.75,Trader
+CUST00681,Brittany Clements,41,Florida,2023-02-05,64142.49,Salaried Worker
+CUST00682,Carmen Vazquez,61,Illinois,2023-05-02,1944.18,Student
+CUST00683,Donna Munoz,28,North Carolina,2025-05-08,12815.02,Student
+CUST00684,Corey Moore,48,Nebraska,2024-08-22,23720.5,Freelancer
+CUST00685,Patrick Hunt,25,Vermont,2022-12-05,75280.03,Salaried Worker
+CUST00686,Mark Mitchell,35,Hawaii,2023-03-23,20430.36,Salaried Worker
+CUST00687,Alejandro Tran,49,Rhode Island,2024-11-02,51357.14,Freelancer
+CUST00688,James Perez,57,Delaware,2023-02-25,9527.38,Salaried Worker
+CUST00689,Lauren Crawford,48,South Dakota,2023-06-29,45844.41,Trader
+CUST00690,Adam Lee,29,New Hampshire,2024-12-15,69148.99,Freelancer
+CUST00691,Jessica Barrett,45,Kentucky,2023-03-31,30640.74,Salaried Worker
+CUST00692,Karen Church,25,Idaho,2024-11-16,9532.35,Freelancer
+CUST00693,Teresa Miller,36,Rhode Island,2022-11-04,55008.66,Trader
+CUST00694,Jennifer Walker,41,Nebraska,2024-03-20,23769.41,Salaried Worker
+CUST00695,Gina Anderson,47,Pennsylvania,2024-12-31,34092.18,Trader
+CUST00696,Elizabeth Williams,49,Mississippi,2025-02-09,78228.05,Student
+CUST00697,Jennifer Smith,28,Missouri,2024-06-04,52143.7,Salaried Worker
+CUST00698,Jennifer Harris,32,Delaware,2023-08-24,12253.49,Student
+CUST00699,Mary Perez,19,Colorado,2023-03-05,7318.72,Freelancer
+CUST00700,Laura Rodriguez,27,Virginia,2023-03-04,29807.27,Freelancer
+CUST00701,Brian Spencer,19,Mississippi,2025-08-05,90610.67,Salaried Worker
+CUST00702,Jennifer Powers,45,Delaware,2025-01-17,82672.21,Student
+CUST00703,Keith Gonzalez,28,Alabama,2022-09-15,20752.98,Trader
+CUST00704,Vanessa Brown,44,Idaho,2023-01-10,7693.39,Trader
+CUST00705,Vanessa Flowers,48,Louisiana,2023-01-20,62090.32,Salaried Worker
+CUST00706,Richard Austin,60,New Mexico,2024-03-12,90738.96,Trader
+CUST00707,Samuel Perez,25,Virginia,2022-11-11,76552.61,Freelancer
+CUST00708,Gregory Vasquez,60,Louisiana,2025-05-27,24194.04,Salaried Worker
+CUST00709,Mrs. Sarah Martinez,24,Indiana,2024-07-29,60062.07,Trader
+CUST00710,Kathleen Elliott,42,Alabama,2025-05-19,11466.15,Trader
+CUST00711,Joel Stout,34,Massachusetts,2023-11-26,47246.05,Student
+CUST00712,Robert Morrison,37,Virginia,2025-01-13,65944.2,Salaried Worker
+CUST00713,Susan Sandoval,64,West Virginia,2024-09-24,60256.15,Salaried Worker
+CUST00714,Connor Nelson,37,New Hampshire,2023-08-04,69593.63,Student
+CUST00715,Paul Hester,19,New Jersey,2025-05-24,49864.33,Freelancer
+CUST00716,Kimberly Strong,19,Tennessee,2022-10-05,32665.22,Freelancer
+CUST00717,Danielle Avila,43,Minnesota,2023-05-31,65582.98,Trader
+CUST00718,Diana Carroll,45,Maryland,2024-06-02,30799.29,Student
+CUST00719,Janice Hughes,31,Arkansas,2025-04-14,82018.16,Salaried Worker
+CUST00720,Steven Whitaker,31,Mississippi,2025-02-12,65391.74,Trader
+CUST00721,Laura Salinas,32,West Virginia,2023-12-14,47425.03,Student
+CUST00722,Timothy Patton,33,New Mexico,2024-08-06,72563.98,Salaried Worker
+CUST00723,Mariah Edwards,62,Washington,2024-06-11,63398.28,Salaried Worker
+CUST00724,Michael Diaz,56,Washington,2024-06-07,3507.5,Trader
+CUST00725,Alexander Long,52,Maryland,2025-07-23,57046.35,Trader
+CUST00726,Lisa Robinson,21,Washington,2025-04-02,15651.05,Salaried Worker
+CUST00727,Travis Dickson,36,North Dakota,2024-10-08,68939.18,Trader
+CUST00728,Richard Poole,53,North Dakota,2024-06-23,48860.72,Student
+CUST00729,Stephen Martinez,51,Virginia,2023-10-08,25156.43,Student
+CUST00730,Shelly Garcia,64,Delaware,2024-04-28,92030.34,Trader
+CUST00731,Leon Johnson,52,Wisconsin,2024-10-23,37563.32,Trader
+CUST00732,Wyatt Hernandez,23,Illinois,2024-05-10,81487.42,Trader
+CUST00733,James Gregory,25,Texas,2022-12-25,84163.79,Freelancer
+CUST00734,Amanda Wilkinson,60,Pennsylvania,2022-12-31,35116.96,Trader
+CUST00735,Kevin Baldwin,41,Missouri,2023-07-17,6147.65,Trader
+CUST00736,Joshua Mcintyre,52,New Mexico,2024-02-05,25761.64,Trader
+CUST00737,Amy Nelson,47,Louisiana,2023-01-21,76475.58,Student
+CUST00738,Christopher Davis,60,Florida,2025-01-13,22626.91,Salaried Worker
+CUST00739,Ivan Jackson,45,California,2024-05-12,68513.3,Trader
+CUST00740,Christopher Cabrera,33,New York,2023-01-10,27377.0,Trader
+CUST00741,Jeremy Mason,38,Wyoming,2025-07-10,55903.38,Salaried Worker
+CUST00742,Linda Wright,50,Montana,2025-08-01,78720.5,Salaried Worker
+CUST00743,Amy Ruiz,24,Delaware,2022-08-29,94114.51,Trader
+CUST00744,Kayla Hall,28,West Virginia,2025-07-21,18340.42,Salaried Worker
+CUST00745,Kirsten Medina,44,Delaware,2023-12-09,44234.47,Freelancer
+CUST00746,Kylie Johnson,51,Nevada,2023-12-23,59607.13,Trader
+CUST00747,Kevin Hunter,48,North Dakota,2022-08-22,5729.43,Student
+CUST00748,Cynthia Scott,48,Wyoming,2025-03-27,77391.72,Salaried Worker
+CUST00749,Juan Garcia,44,Idaho,2025-01-21,42826.94,Salaried Worker
+CUST00750,John Thompson,24,Nevada,2025-06-11,45990.93,Salaried Worker
+CUST00751,David Lowe,62,South Carolina,2025-03-18,99746.37,Student
+CUST00752,Kirk Hudson,45,New Hampshire,2024-12-31,33181.68,Trader
+CUST00753,Dylan Smith,29,Nebraska,2023-03-14,51251.29,Trader
+CUST00754,Haley Petersen,54,Oklahoma,2023-05-18,99066.77,Salaried Worker
+CUST00755,Albert Rios,20,Utah,2022-09-16,62247.85,Student
+CUST00756,Vincent Juarez,62,Idaho,2022-11-25,41945.43,Salaried Worker
+CUST00757,Elizabeth Chavez,43,California,2025-03-16,55385.66,Salaried Worker
+CUST00758,Tracy Chang,50,Georgia,2023-10-07,2503.07,Student
+CUST00759,Nancy Turner,45,New Mexico,2025-07-10,40674.38,Salaried Worker
+CUST00760,Robert Rodriguez,39,Louisiana,2022-11-15,12136.55,Trader
+CUST00761,Adrian Johnson,36,North Dakota,2025-03-10,47694.25,Salaried Worker
+CUST00762,Kayla Osborne,61,Illinois,2024-07-12,32451.98,Salaried Worker
+CUST00763,Brett Campbell,30,Mississippi,2023-04-26,67894.72,Student
+CUST00764,Julie Black,42,Rhode Island,2025-03-02,92707.34,Salaried Worker
+CUST00765,Gabriel Christensen,21,Idaho,2024-10-29,26064.42,Trader
+CUST00766,Nicole Roberts,56,Utah,2022-10-20,92245.18,Trader
+CUST00767,Wyatt Bennett,27,Idaho,2024-10-08,5346.56,Salaried Worker
+CUST00768,Kristen Pace,59,North Carolina,2024-12-28,23781.01,Trader
+CUST00769,Robert Brown,64,New York,2022-12-13,14932.42,Trader
+CUST00770,Brian Fisher,42,Tennessee,2024-07-08,71738.02,Student
+CUST00771,Kelli Harper MD,23,Arizona,2024-11-04,48100.82,Trader
+CUST00772,Reginald Andrews,52,Nebraska,2023-09-22,11174.32,Salaried Worker
+CUST00773,Riley Graham,61,Rhode Island,2023-06-23,89284.5,Salaried Worker
+CUST00774,Deanna Kirk,51,Tennessee,2025-02-18,19488.97,Salaried Worker
+CUST00775,Jacqueline Moran,55,Pennsylvania,2022-08-16,20579.25,Salaried Worker
+CUST00776,Jessica Acevedo,36,Washington,2024-11-20,91921.31,Trader
+CUST00777,James Miller,51,Idaho,2023-09-03,47916.93,Student
+CUST00778,Andrew Vance,33,Florida,2024-12-24,72082.89,Trader
+CUST00779,Aaron David,38,Arkansas,2025-04-26,56171.27,Salaried Worker
+CUST00780,Michael Roberts,23,Oklahoma,2022-11-16,91001.08,Trader
+CUST00781,Jeremy Powers,21,Vermont,2022-11-17,99499.01,Freelancer
+CUST00782,Kimberly Hudson,60,Oklahoma,2024-09-05,7878.44,Student
+CUST00783,Samuel Cole,60,Hawaii,2024-02-11,28088.89,Salaried Worker
+CUST00784,Melissa Smith,32,South Dakota,2023-11-03,53397.43,Trader
+CUST00785,Mark Wilson,58,Georgia,2024-03-24,73704.97,Freelancer
+CUST00786,Kathleen Smith,56,Texas,2024-09-25,50012.85,Freelancer
+CUST00787,Cynthia Jennings,45,North Dakota,2024-10-07,10565.28,Freelancer
+CUST00788,David Williams,29,Oregon,2023-05-07,81902.12,Trader
+CUST00789,Matthew Ryan,40,Hawaii,2024-10-10,13951.52,Salaried Worker
+CUST00790,Teresa Richard,60,Texas,2023-06-18,48320.36,Student
+CUST00791,Richard Ellis,18,West Virginia,2022-08-29,44963.23,Salaried Worker
+CUST00792,Kari Mosley,26,Texas,2024-06-30,49858.68,Student
+CUST00793,Rebecca Watson,55,New Hampshire,2024-11-01,13913.23,Student
+CUST00794,Melanie Torres,38,Connecticut,2025-07-26,16435.34,Freelancer
+CUST00795,Melanie Hall,23,South Carolina,2024-06-19,69873.99,Salaried Worker
+CUST00796,Linda Melton MD,48,Michigan,2023-05-24,26322.82,Salaried Worker
+CUST00797,Angela Oliver,28,Oklahoma,2022-10-24,25385.14,Salaried Worker
+CUST00798,Emily Hensley,55,Wyoming,2023-09-25,40593.39,Student
+CUST00799,Casey Clark DVM,34,North Carolina,2025-07-25,27969.17,Student
+CUST00800,Jamie Aguirre,51,Oklahoma,2024-04-07,97097.42,Trader
