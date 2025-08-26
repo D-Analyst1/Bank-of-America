@@ -58,20 +58,20 @@ To ensure efficient analysis and reporting, a **relational star-schema model** w
 The schema consists of:  
 
 1. **Fact Table**  
-   - **Transactions** (`opay_transactions_medium`)  
+   - **Transactions** (`Bank of America_transactions_medium`)  
      - Holds all transaction records including amount, channel, customer, agent, merchant, and transaction status.  
      - Measures such as **Total Amount**, **Transaction Count**, and **Failure Rate** are derived here.  
 
 2. **Dimension Tables**  
-   - **Customers** (`opay_customers_medium`)  
+   - **Customers** (`bank of America_customers_medium`)  
      - Attributes: Customer ID, Name, Location, Age, Age Category, Customer Type, Registration details.  
      - Enables segmentation of transaction activity by demographics.  
 
-   - **Agents** (`opay_agents_medium`)  
+   - **Agents** (`Bank of America_agents_medium`)  
      - Attributes: Agent ID, Name, Location, Join Date, Commission Rate, Status.  
      - Supports analysis of agent performance and commission trends.  
 
-   - **Merchants** (`opay_merchants_medium`)  
+   - **Merchants** (`Bank of America_merchants_medium`)  
      - Attributes: Merchant ID, Name, Category, Location.  
      - Provides insights into merchant performance and activity.  
 
